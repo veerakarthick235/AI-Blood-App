@@ -71,28 +71,6 @@ Detects fake emergency requests using behavior patterns.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-    ai-blood/
-    │
-    ├── frontend/ (Next.js)
-    │   ├── pages/
-    │   ├── components/
-    │   └── services/
-    │
-    ├── backend/ (FastAPI)
-    │   ├── routes/
-    │   ├── models/
-    │   ├── ai/
-    │   └── utils/
-    │
-    ├── database/
-    │   └── mongo_schemas/
-    │
-    └── docs/
-
-------------------------------------------------------------------------
-
 ## 🔌 Key API Endpoints
 
 ### Auth
