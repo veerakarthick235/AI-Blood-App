@@ -159,14 +159,6 @@ Detects fake emergency requests using behavior patterns.
 
 ------------------------------------------------------------------------
 
-## 🏁 Deployment
-
-Frontend → Vercel\
-Backend → Docker + AWS/Render\
-Database → MongoDB Atlas
-
-------------------------------------------------------------------------
-
 ## 💡 Future Enhancements
 
 -   Rare blood group network
